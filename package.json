@@ -1,0 +1,14 @@
+{
+  "name": "megaprojbackend",
+  "version": "1.0.0",
+  "description": "backend megaproject",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "Ainesh Sinha",
+  "license": "ISC"
+}
