@@ -25,6 +25,9 @@ app.use(express.urlencoded({extended: true, limit: '16kb'}))
  */
 app.use(express.static('public'))
 
+/**
+ * Configures the Express application to parse cookies from incoming requests.
+ */
 app.use(cookieParser())
 
 //router import
